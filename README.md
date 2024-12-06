@@ -16,7 +16,7 @@ A final webpage showing the tooltip is shown [here](https://myrojoylee.github.io
 
 Demo below showing tooltip upon hover:
 
-![Demo]()
+![Demo](./assets/aoc-3.gif)
 
 ## Notes/Improvements
 
@@ -24,6 +24,7 @@ Accessibility wasn't the focus so that could definitely have been improved.
 
 ## Credits
 
+CSS Triangle adapted from [here](https://css-tricks.com/snippets/css/css-triangle/).
 
 ## License
 
